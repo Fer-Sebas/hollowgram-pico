@@ -1,0 +1,21 @@
+{
+  "name": "hollowgram-pico",
+  "version": "0.1.0",
+  "description": "An opinionated minimal-usable CSS design system targeting HTML tags directly.",
+  "license": "CC-BY-4.0",
+  "files": [
+    "index.css",
+    "theme/",
+    "core/"
+  ],
+  "keywords": [
+    "css",
+    "design-system",
+    "classless",
+    "vanilla"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fer-Sebas/hollowgram-pico"
+  }
+}
