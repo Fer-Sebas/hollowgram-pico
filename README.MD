@@ -36,3 +36,7 @@ That's it. No build step, no configuration.
 ## Status
 
 Early development. Structure and tokens are being defined.
+
+## License
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use and modify with attribution.
